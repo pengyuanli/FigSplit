@@ -18,7 +18,7 @@ Inputs:
 Outputs:  
 The identified panels (in jpg format) from the compound image and their coordinates (in text format) at the original image.  
 
-**Explainations of submodules called by FigSplit.m **
+**Explainations of submodules called by FigSplit.m**  
 **Submodule 1:** Image preprocessing (Lines 8-31 in FigSplit.m)
 Inputs:  
 *Im_original*: The original image that needs separation.  
@@ -51,4 +51,4 @@ Outputs:
 The coordinates of identified panels by applying CCA method to *Susan_im*.  
 
 \subsection{Datasets}  
-The dataset used for the Figure Separation task at [ImageCLEF2013](https://www.imageclef.org/2013/medical), [ImageCLEF2015](https://www.imageclef.org/2015/medical), [ImageCLEF2016](https://www.imageclef.org/2016/medical).
+The datasets used for the Figure Separation task at [ImageCLEF2013](https://www.imageclef.org/2013/medical), [ImageCLEF2015](https://www.imageclef.org/2015/medical), [ImageCLEF2016](https://www.imageclef.org/2016/medical).
