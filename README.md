@@ -1,2 +1,2 @@
 # FigSplit
-https://academic.oup.com/bioinformatics/article/34/7/1192/4430539?searchresult=1
+https://doi.org/10.1093/bioinformatics/btx611
